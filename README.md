@@ -64,3 +64,5 @@ Ensure you have Python 3.x installed along with the required libraries listed in
    Run the main script:
        python main.py
    View the annotated images with recognized entities and check the extracted entity information printed to the console.
+   
+![image](https://github.com/shahkhushi28k/Intelligently-Extract-Text-and-Data-from-Document-with-OCR-NER/assets/127178469/02955d17-3b03-4967-9ca7-582e3aa2713f)
